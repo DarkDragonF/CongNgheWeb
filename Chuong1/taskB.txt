@@ -1,0 +1,10 @@
+1. Request URL: https://tlu.edu.vn/
+ 
+2. Request Method: GET
+
+3. Status Code: 200 OK
+
+4. Câu hỏi phản biện: 
+	- Tại sao khi chỉnh sửa trực tiếp nội dung văn bản hoặc xóa một thẻ HTML trong tab Elements, giao diện thay đổi ngay lập tức trên màn hình, nhưng khi tải lại trang (F5) thì mọi thứ lại trở về như cũ?
+
+	- Tại sao trong tab Network, khi tải lại trang lần thứ 2, cột Size của nhiều tài nguyên (ảnh, css) lại hiển thị là disk cache hoặc memory cache thay vì hiển thị dung lượng thực tế (KB/MB) như lần đầu vào trang web?
