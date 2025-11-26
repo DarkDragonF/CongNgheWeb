@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Hoa Đỗ Quyên",
+        "image": "./images/doquyen.jpg",
+        "desc": "Sắc hồng rực rỡ báo hiệu mùa xuân về."
+    },
+    {
+        "id": 2,
+        "name": "Hoa Hải Đường",
+        "image": "./images/haiduong.jpg",
+        "desc": "Loài hoa quý phái, tượng trưng cho phú quý."
+    },
+    {
+        "id": 3,
+        "name": "Hoa Mai",
+        "image": "./images/mai.jpg",
+        "desc": "Biểu tượng may mắn ngày Tết miền Nam."
+    },
+    {
+        "id": 4,
+        "name": "Hoa Cẩm Tường Vi",
+        "image": "./images/tuongvy.jpg",
+        "desc": "Vẻ đẹp mong manh nhưng đầy sức sống."
+    }
+]
