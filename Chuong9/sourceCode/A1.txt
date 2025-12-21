@@ -1,0 +1,14 @@
+    <form action="{{ route('sinhvien.store') }}" method="POST">
+        @csrf
+        <div style="margin-bottom: 10px;">
+            <label for="ten_sinh_vien">Tên Sinh Viên:</label><br>
+            <input type="text" id="ten_sinh_vien" name="ten_sinh_vien" placeholder="Nhập tên..." required>
+        </div>
+
+        <div style="margin-bottom: 10px;">
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email" placeholder="Nhập email..." required>
+        </div>
+
+        <button type="submit">Lưu thông tin</button>
+    </form>

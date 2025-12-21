@@ -1,0 +1,1 @@
+"Sự khác biệt cơ bản giữa Xác thực (Authentication) và Phân quyền (Authorization) là gì? 2 Trong Bài tập lớn, chức năng 'Đăng nhập' là Authentication hay Authorization? Chức năng 'Chỉ Admin mới thấy trang Quản trị' là gì?
